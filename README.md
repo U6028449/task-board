@@ -4,7 +4,7 @@
 
 ## Description
 
-This blog was created for vetrans of Malevalon Creek to share thier thoughts and expierences with future heckjumpers and citizens of superduper EARTH.
+This Task board was created to assist people with managing tasks.
 
 ## Table of Contents 
 - [Usage]
@@ -13,19 +13,19 @@ This blog was created for vetrans of Malevalon Creek to share thier thoughts and
 
 ## Usage
 
-- [upon opening the blog the user is directed to a landing page.]
-- [please fill out the form completly to prove you are not a terminid]
-- [you will then be directed to the post page where you can view other entries from fellow heckjumpers]
-- [if you wish to add another post clivk the back button and resubmit the form]
+- [upon opening the HTML the user is directed to a modal where a task, descriptoin and due date can be submitted.]
+- [once the information is entered that task will be represented in the todo lane with a color to depict task due date]
+- [the task card can be moved between the different lanes or deleted out once it is completed]
+- [if you wish to add another task simply click the add task button]
 
 ## Links
-- [file:///C:/Users/Lidia/projects/blog/post.html]
-- [assets\images\spill-oil-mercy-is-treason-v0-tlme5ka6yfjc1.webp]
+- []
+- []
 
 
 ## screenshot
 
--[https://github.com/U6028449/blog/blob/main/assets/images/Screenshot%202024-03-28%20212805.png]
-
+-[]
+20212805
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
