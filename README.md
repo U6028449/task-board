@@ -19,13 +19,13 @@ This Task board was created to assist people with managing tasks.
 - [if you wish to add another task simply click the add task button]
 
 ## Links
-- []
-- []
+- [https://github.com/U6028449/task-board/edit/main]
+
 
 
 ## screenshot
 
--[]
+-[https://github.com/U6028449/task-board/blob/main/img/Screenshot%202024-04-04%20215129.png]
 20212805
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
